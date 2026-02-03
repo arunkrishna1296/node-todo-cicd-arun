@@ -1,5 +1,5 @@
 services:
   web:
-    image: "musabsyed/node-app-test-new:latest"
+    image: "arunkrishna1296/node-todo-arun:latest"
     ports:
       - "8000:8000"
